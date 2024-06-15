@@ -1,7 +1,3 @@
-/*  NAMA    : ARI PERDIAN
-    KELAS   : TI22J
-    NIM     : 20220040072
-*/
 
 import javax.swing.*;
 import java.awt.*;
